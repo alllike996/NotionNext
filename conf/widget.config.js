@@ -40,8 +40,9 @@ module.exports = {
     name: '你还有遗憾吗',
     artist: '郭鑫',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
-    cover: 'https://p2.music.126.net/Zqeh5ylhID3GZxy4vWkksQ==/109951169596234041.jpg'
-  }
+    cover: 
+      'https://p2.music.126.net/Zqeh5ylhID3GZxy4vWkksQ==/109951169596234041.jpg'
+    }
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
