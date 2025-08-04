@@ -38,7 +38,7 @@ module.exports = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
     name: '你还有遗憾吗',
-    artist: '郭鑫',
+    artist: 'Falcom Sound Team jdk',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
     cover: 
       'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg'
