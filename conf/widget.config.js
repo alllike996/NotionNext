@@ -42,7 +42,7 @@ module.exports = {
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
     cover: 
       'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg'
-    }
+    },
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
