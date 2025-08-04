@@ -44,18 +44,25 @@ module.exports = {
       'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg'
     },
     {
-      name: '风を共に舞う気持ち',
+      name: '敬不到来日方长',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=2082352127.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg'
+    },
+     {
+      name: '风来听风雨来听雨',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=2699878931.mp3',
+      cover:
+        'https://p1.music.126.net/tzkMs3NlFrpoqNpMzLdmuA==/109951170922739453.jpg'
     },
     {
-      name: '王都グランセル',
+      name: '秋风经过',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p1.music.126.net/v2ENMZxP7QgNeyBirPAcGw==/109951171473463274.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
