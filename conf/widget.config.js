@@ -57,7 +57,8 @@ module.exports = {
       artist: '田毅',
       url: 'https://music.163.com/song/media/outer/url?id=2699878931.mp3',
       cover:
-        'https://p1.music.126.net/tzkMs3NlFrpoqNpMzLdmuA==/109951170922739453.jpg'
+        'https://p1.music.126.net/tzkMs3NlFrpoqNpMzLdmuA==/109951170922739453.jpg',
+      lrc: '/lrc/风来听风雨来听雨 - 田毅.lrc' 
     },
     {
       name: '秋风经过',
