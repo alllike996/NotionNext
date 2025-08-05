@@ -46,7 +46,7 @@ module.exports = {
     },
     {
       name: '敬不到来日方长',
-      artist: '金娃',
+      artist: '水儿',
       url: 'https://music.163.com/song/media/outer/url?id=2082352127.mp3',
       cover:
         'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg'
