@@ -38,28 +38,28 @@ module.exports = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
     name: '你还有遗憾吗',
-    artist: 'Falcom Sound Team jdk',
+    artist: '郭鑫',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
     cover: 
       'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg'
     },
     {
       name: '敬不到来日方长',
-      artist: 'Falcom Sound Team jdk',
+      artist: '金娃',
       url: 'https://music.163.com/song/media/outer/url?id=2082352127.mp3',
       cover:
         'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg'
     },
      {
       name: '风来听风雨来听雨',
-      artist: 'Falcom Sound Team jdk',
+      artist: '田毅',
       url: 'https://music.163.com/song/media/outer/url?id=2699878931.mp3',
       cover:
         'https://p1.music.126.net/tzkMs3NlFrpoqNpMzLdmuA==/109951170922739453.jpg'
     },
     {
       name: '秋风经过',
-      artist: 'Falcom Sound Team jdk',
+      artist: 'Zzl',
       url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
       cover:
         'https://p1.music.126.net/v2ENMZxP7QgNeyBirPAcGw==/109951171473463274.jpg'
