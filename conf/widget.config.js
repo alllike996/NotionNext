@@ -49,7 +49,8 @@ module.exports = {
       artist: '水儿',
       url: 'https://music.163.com/song/media/outer/url?id=2082352127.mp3',
       cover:
-        'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg'
+        'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg',
+      lrc: '/lrc/敬不到来日方长 - 水儿.lrc' 
     },
      {
       name: '风来听风雨来听雨',
