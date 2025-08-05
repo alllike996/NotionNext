@@ -41,7 +41,7 @@ module.exports = {
     artist: '郭鑫',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
     cover: 
-      'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg'
+      'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg',
     lrc: '/lrc/nihaiyouyihanma-guoxin.lrc'  
     },
     {
