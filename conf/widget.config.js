@@ -61,6 +61,14 @@ module.exports = {
       lrc: '/lrc/风来听风雨来听雨 - 田毅.lrc' 
     },
     {
+      name: '想你一次起一阵风',
+      artist: '大潞',
+      url: 'https://music.163.com/song/media/outer/url?id=2735719087.mp3',
+      cover:
+        'https://p2.music.126.net/sfvZzeyK4OMxFnpVKEPX0A==/109951171850485702.jpg',
+      lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
+    },
+    {
       name: '秋风经过',
       artist: 'Zzl',
       url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
