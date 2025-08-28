@@ -63,7 +63,7 @@ module.exports = {
     {
       name: '想你一次起一阵风',
       artist: '大潞',
-      url: 'https://music.163.com/song/media/outer/url?id=2735719087.mp3',
+      url: 'https://blog.273983.xyz/music/想你一次起一阵风-大潞.m4a',
       cover:
         'https://p2.music.126.net/sfvZzeyK4OMxFnpVKEPX0A==/109951171850485702.jpg',
       lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
