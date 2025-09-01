@@ -69,6 +69,14 @@ module.exports = {
       lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
     },
     {
+      name: '流浪爱情',
+      artist: '张津涤',
+      url: 'https://music.163.com/song/media/outer/url?id=2738486624.mp3',
+      cover:
+        'https://p2.music.126.net/IhPDWBJyCrVU7etmGYGq1A==/109951171907079968.jpg',
+      lrc: '/lrc/流浪爱情 - 张津涤.lrc' 
+    },
+    {
       name: '秋风经过',
       artist: 'Zzl',
       url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
