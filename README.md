@@ -1,4 +1,4 @@
-# 帮助教程，好
+# 帮助教程，很不粗的项目。
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
