@@ -1,4 +1,4 @@
-# 帮助教程。修改
+# 帮助教程。更新于2025年9月20日
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
