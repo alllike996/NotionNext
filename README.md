@@ -1,4 +1,4 @@
-# 帮助教程。李花绽放春，红艳映山村
+# 帮助教程。艷偉卒
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
