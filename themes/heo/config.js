@@ -21,7 +21,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: '程序员的认知升级',
+  HEO_HERO_TITLE_3: '青椒土豆的认知升级',
   HEO_HERO_TITLE_4: '点滴随笔，汇聚成长',
   HEO_HERO_TITLE_5: '写下所思，收藏时光',
   HEO_HERO_TITLE_LINK: 'https://cfblog.273983.xyz',
