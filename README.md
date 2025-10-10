@@ -1,4 +1,4 @@
-# 帮助教程。李艳伟
+# 帮助教程。2025年10月10日
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
