@@ -1,4 +1,4 @@
-# 帮助教程。2025年10月12日修改Google
+# 帮助教程。加密码冬虫夏草
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
