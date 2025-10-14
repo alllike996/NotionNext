@@ -1,4 +1,4 @@
-# 帮助教程。调整视频大小。
+# 帮助教程。====新帖子windows
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
