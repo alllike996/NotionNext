@@ -1,4 +1,4 @@
-# 帮助教程。加密码冬虫夏草
+# 帮助教程。冬虫夏草加入视频
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
