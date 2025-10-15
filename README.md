@@ -1,4 +1,4 @@
-# 帮助教程。====esim
+# 帮助教程。====嵌入视频教程
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
