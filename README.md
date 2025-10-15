@@ -1,4 +1,4 @@
-# 帮助教程。====了解更多修改
+# 帮助教程。====win11
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
