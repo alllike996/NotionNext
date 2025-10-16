@@ -1,4 +1,4 @@
-# 帮助教程。====修改公告
+# 帮助教程。====notion使用技巧
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
