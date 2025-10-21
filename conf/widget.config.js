@@ -68,6 +68,14 @@ module.exports = {
         'https://p2.music.126.net/sfvZzeyK4OMxFnpVKEPX0A==/109951171850485702.jpg',
       lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
     },
+     {
+      name: '远去的列车',
+      artist: '木子',
+      url: 'https://music.163.com/song/media/outer/url?id=2717746351.mp3',
+      cover:
+        'https://p2.music.126.net/HKZfQMy8sH1yWp6TXw73Og==/109951170067498747.jpg',
+      lrc: '/lrc/远去的列车 - 木子.lrc' 
+    },
     {
       name: '流浪爱情',
       artist: '张津涤',
@@ -75,6 +83,14 @@ module.exports = {
       cover:
         'https://p2.music.126.net/IhPDWBJyCrVU7etmGYGq1A==/109951171907079968.jpg',
       lrc: '/lrc/流浪爱情 - 张津涤.lrc' 
+    },
+     {
+      name: '黄昏',
+      artist: '洋澜一',
+      url: 'https://music.163.com/song/media/outer/url?id=2735925522.mp3',
+      cover:
+        'https://p1.music.126.net/XEUUWUphKGdsdEWylrp7Pg==/109951171855753540.jpg',
+      lrc: '/lrc/黄昏 - 洋澜一.lrc' 
     },
     {
       name: '秋风经过',
