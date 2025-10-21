@@ -85,6 +85,14 @@ module.exports = {
       lrc: '/lrc/流浪爱情 - 张津涤.lrc' 
     },
     {
+      name: '黄昏',
+      artist: '洋澜一',
+      url: 'https://music.163.com/song/media/outer/url?id=2735925522.mp3',
+      cover:
+        'https://p1.music.126.net/XEUUWUphKGdsdEWylrp7Pg==/109951171855753540.jpg',
+      lrc: '/lrc/黄昏 - 洋澜一.lrc' 
+    },
+    {
       name: '秋风经过',
       artist: 'Zzl',
       url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
