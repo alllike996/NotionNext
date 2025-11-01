@@ -37,6 +37,14 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+    name: '一直很安静',
+    artist: '邓晃晃',
+    url: 'https://music.163.com/song/media/outer/url?id=2738920830.mp3',
+    cover: 
+      'https://p1.music.126.net/vkgcFb14c-omwjH6kzQJIw==/109951171914003068.jpg',
+    lrc: '/lrc/一直很安静 - 邓晃晃.lrc'  
+    },
+    {
     name: '你还有遗憾吗',
     artist: '郭鑫',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
