@@ -69,6 +69,14 @@ module.exports = {
       lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
     },
     {
+      name: '凭什么你回头我就在',
+      artist: '杨不乖',
+      url: 'https://sunhuo95.zabc.net/file/images/1762397449982_pingshmyangbuguai.mp3',// GitHub CDN加速：https://cdn.jsdelivr.net/gh/qinglong9627/NotionNext/public/music/pingshmyangbuguai.mp3
+      cover:
+        'https://p.sda1.dev/28/5c0cded086c2dea77eb1c0b993e77b44/tos-cn-avt-0015_60c6d78b43de387e9ec85583b23cb7e6~c5_300x300.jpeg',
+      lrc: '/lrc/凭什么你回头我就在 - 杨不乖.lrc' 
+    },
+    {
       name: '远去的列车',
       artist: '木子',
       url: 'https://music.163.com/song/media/outer/url?id=2717746351.mp3',
