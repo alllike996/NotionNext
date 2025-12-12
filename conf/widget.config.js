@@ -37,6 +37,14 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+    name: '我要找到你',
+    artist: '张妙格',
+    url: 'https://music.163.com/song/media/outer/url?id=2738145492.mp3',
+    cover: 
+      'https://p2.music.126.net/0fS-Kuwcrbuc1ua3_yzPqQ==/109951171901810303.jpg',
+    lrc: '/lrc/我要找到你 - 张妙格.lrc'  
+    },
+    {
     name: '你还有遗憾吗',
     artist: '郭鑫',
     url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
