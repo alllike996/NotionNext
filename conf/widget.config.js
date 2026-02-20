@@ -71,7 +71,7 @@ module.exports = {
     {
       name: '想你一次起一阵风',
       artist: '大潞',
-      url: 'https://sunhuo95.zabc.net/file/images/1756347900954_xnycdalu.m4a',// GitHub CDN加速：https://cdn.jsdelivr.net/gh/qinglong9627/NotionNext/public/music/xnycdalutg.m4a
+      url: 'https://bed.273983.xyz/file/images/1756347900954_xnycdalu.m4a',// GitHub CDN加速：https://cdn.jsdelivr.net/gh/qinglong9627/NotionNext/public/music/xnycdalutg.m4a
       cover:
         'https://p2.music.126.net/sfvZzeyK4OMxFnpVKEPX0A==/109951171850485702.jpg',
       lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
