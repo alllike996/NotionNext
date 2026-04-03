@@ -18,18 +18,18 @@ module.exports = {
   WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || true, // 是否显示宠物挂件
   WIDGET_PET_LINK:
     process.env.NEXT_PUBLIC_WIDGET_PET_LINK ||
-    'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
+    'https://cdn.jsdelivr.net/npm/live2d-widget-model-hijiki/assets/hijiki.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
   WIDGET_PET_SWITCH_THEME:
     process.env.NEXT_PUBLIC_WIDGET_PET_SWITCH_THEME || true, // 点击宠物挂件切换博客主题
 
   SPOILER_TEXT_TAG: process.env.NEXT_PUBLIC_SPOILER_TEXT_TAG || '', // Spoiler文本隐藏功能，如Notion中 [sp]希望被spoiler的文字[sp]，填入[sp] 即可
 
   // 音乐播放插件
-  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || false, // 是否使用音乐播放插件
+  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || true, // 是否使用音乐播放插件
   MUSIC_PLAYER_VISIBLE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_VISIBLE || true, // 是否在左下角显示播放和切换，如果使用播放器，打开自动播放再隐藏，就会以类似背景音乐的方式播放，无法取消和暂停
   MUSIC_PLAYER_AUTO_PLAY:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_AUTO_PLAY || true, // 是否自动播放，不过自动播放时常不生效（移动设备不支持自动播放）
-  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '0', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
+  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '3', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
   MUSIC_PLAYER_CDN_URL:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_CDN_URL ||
     'https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js',
@@ -37,18 +37,76 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
-      cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+      name: '一直很安静',
+    artist: '邓晃晃',
+    url: 'https://music.163.com/song/media/outer/url?id=2738920830.mp3',
+    cover: 
+      'https://p1.music.126.net/vkgcFb14c-omwjH6kzQJIw==/109951171914003068.jpg',
+    lrc: '/lrc/一直很安静 - 邓晃晃.lrc'  
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+    name: '你还有遗憾吗',
+    artist: '郭鑫',
+    url: 'https://music.163.com/song/media/outer/url?id=2615118195.mp3',
+    cover: 
+      'https://p1.music.126.net/WfGWzklWNI67fYNPLmLPgQ==/109951169852022588.jpg',
+    lrc: '/lrc/nihaiyouyihanma-guoxin.lrc'  
+    },
+    {
+      name: '敬不到来日方长',
+      artist: '水儿',
+      url: 'https://music.163.com/song/media/outer/url?id=2082352127.mp3',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p1.music.126.net/asovpjAmWDMagmBz_o1cNA==/109951168916668306.jpg',
+      lrc: '/lrc/敬不到来日方长 - 水儿.lrc' 
+    },
+     {
+      name: '风来听风雨来听雨',
+      artist: '田毅',
+      url: 'https://music.163.com/song/media/outer/url?id=2699878931.mp3',
+      cover:
+        'https://p1.music.126.net/tzkMs3NlFrpoqNpMzLdmuA==/109951170922739453.jpg',
+      lrc: '/lrc/风来听风雨来听雨 - 田毅.lrc' 
+    },
+    {
+      name: '想你一次起一阵风',
+      artist: '大潞',
+      url: 'https://bed.273983.xyz/file/images/1756347900954_xnycdalu.m4a',// GitHub CDN加速：https://cdn.jsdelivr.net/gh/qinglong9627/NotionNext/public/music/xnycdalutg.m4a
+      cover:
+        'https://p2.music.126.net/sfvZzeyK4OMxFnpVKEPX0A==/109951171850485702.jpg',
+      lrc: '/lrc/想你一次起一阵风 - 大潞.lrc' 
+    },
+     {
+      name: '远去的列车',
+      artist: '木子',
+      url: 'https://music.163.com/song/media/outer/url?id=2717746351.mp3',
+      cover:
+        'https://p2.music.126.net/HKZfQMy8sH1yWp6TXw73Og==/109951170067498747.jpg',
+      lrc: '/lrc/远去的列车 - 木子.lrc' 
+    },
+    {
+      name: '流浪爱情',
+      artist: '张津涤',
+      url: 'https://music.163.com/song/media/outer/url?id=2738486624.mp3',
+      cover:
+        'https://p2.music.126.net/IhPDWBJyCrVU7etmGYGq1A==/109951171907079968.jpg',
+      lrc: '/lrc/流浪爱情 - 张津涤.lrc' 
+    },
+     {
+      name: '黄昏',
+      artist: '洋澜一',
+      url: 'https://music.163.com/song/media/outer/url?id=2735925522.mp3',
+      cover:
+        'https://p1.music.126.net/XEUUWUphKGdsdEWylrp7Pg==/109951171855753540.jpg',
+      lrc: '/lrc/黄昏 - 洋澜一.lrc' 
+    },
+    {
+      name: '秋风经过',
+      artist: 'Zzl',
+      url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
+      cover:
+        'https://p1.music.126.net/v2ENMZxP7QgNeyBirPAcGw==/109951171473463274.jpg',
+      lrc: '/lrc/秋风经过 - ZzL.lrc' 
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
