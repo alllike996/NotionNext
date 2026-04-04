@@ -111,7 +111,7 @@ module.exports = {
     {
       name: '秋风经过',
       artist: 'Zzl',
-      url: 'https://music.163.com/song/media/outer/url?id=2713546691.mp3',
+      url: 'https://bed.273983.xyz/file/music/1775267062414_任夏_-_秋风经过.mp3',
       cover:
         'https://p1.music.126.net/v2ENMZxP7QgNeyBirPAcGw==/109951171473463274.jpg',
       lrc: '/lrc/秋风经过 - ZzL.lrc'
