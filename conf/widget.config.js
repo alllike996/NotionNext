@@ -109,6 +109,14 @@ module.exports = {
       lrc: '/lrc/黄昏 - 洋澜一.lrc' 
     },
     {
+      name: '请月亮做邮差',
+      artist: '鲍素芳',
+      url: 'https://music.163.com/song/media/outer/url?id=3368126105.mp3',
+      cover:
+        'https://p2.music.126.net/9xzYqKPlTgEZLnKOG23Zcw==/109951173018937781.jpg',
+      lrc: '/lrc/请月亮做邮差 - 鲍素芳.lrc' 
+    },
+    {
       name: '秋风经过',
       artist: 'Zzl',
       url: 'https://bed.273983.xyz/file/music/1775267062414_任夏_-_秋风经过.mp3',
